@@ -1,0 +1,25 @@
+{
+  "name": "obniz-node-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write **.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yukidarake/obniz-node-playground.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yukidarake/obniz-node-playground/issues"
+  },
+  "homepage": "https://github.com/yukidarake/obniz-node-playground#readme",
+  "dependencies": {
+    "obniz": "^2.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.17.0"
+  }
+}
